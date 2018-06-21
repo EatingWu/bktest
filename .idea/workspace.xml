@@ -20,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings_testing.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings_testing.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/settings_testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="361">
+              <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -32,17 +32,17 @@
       <file leaf-file-name="settings_production.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/settings_production.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="198">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings_development.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings_development.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/settings_development.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -56,8 +56,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/conf/default.py" />
-        <option value="$PROJECT_DIR$/conf/settings_production.py" />
         <option value="$PROJECT_DIR$/conf/settings_testing.py" />
+        <option value="$PROJECT_DIR$/conf/settings_production.py" />
       </list>
     </option>
   </component>
@@ -153,24 +153,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/settings_testing.py">
+    <entry file="file://$PROJECT_DIR$/conf/settings_development.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/settings_production.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="198">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/settings_development.py">
+    <entry file="file://$PROJECT_DIR$/conf/settings_testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="361">
+          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
         </state>
       </provider>
     </entry>
